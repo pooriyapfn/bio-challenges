@@ -1,0 +1,12 @@
+{
+  "name": "bio-challenges",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "ajv": "6.15.0",
+    "yaml": "2.9.0"
+  }
+}

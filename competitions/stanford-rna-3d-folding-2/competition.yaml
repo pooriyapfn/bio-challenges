@@ -1,0 +1,22 @@
+slug: stanford-rna-3d-folding-2
+title: Stanford RNA 3D Folding Part 2
+organizer: Stanford University on Kaggle
+targets:
+  - RNA
+  - RNA complexes
+actions:
+  - RNA folding
+  - Structure prediction
+source_url: https://www.kaggle.com/competitions/stanford-rna-3d-folding-2/overview
+source_label: Official Kaggle competition
+last_verified: 2026-11-12
+opens_on: 2026-01-07
+deadline:
+  label: Final submission deadline
+  at: 2026-03-25T23:59:00Z
+  time_zone: UTC
+solutions:
+  - label: Third-place solution
+    url: https://www.kaggle.com/competitions/stanford-rna-3d-folding-2/writeups/3rd-place-solution
+    description: Stefan Stefanov’s write-up explains his approach to RNA structure
+      prediction and evaluation.
