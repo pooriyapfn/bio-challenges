@@ -1,0 +1,16 @@
+slug: anthropic-adaptyv-2026-pmhc
+title: Anthropic × Adaptyv Challenge 5 · KRAS G12D pMHC
+organizer: Anthropic and Adaptyv
+targets:
+  - KRAS G12D pMHC
+actions:
+  - Protein design
+  - Mutation-specific binding
+source_url: https://proteinbase.com/competitions/anthropic-adaptyv-2026/challenges/pmhc
+source_label: Official challenge on Proteinbase
+last_verified: 2026-11-12
+opens_on: 2026-10-26
+deadline:
+  label: Final submission deadline
+  at: 2026-11-09T23:59:00-12:00
+  time_zone: Etc/GMT+12

@@ -1,0 +1,20 @@
+slug: cameo-structure-prediction
+title: CAMEO Structure Prediction
+organizer: CAMEO
+targets:
+  - Protein complexes
+  - Ligands
+actions:
+  - Structure prediction
+  - Benchmarking
+source_url: https://cameo3d.org/
+source_label: Official CAMEO benchmark
+last_verified: 2026-11-12
+entry:
+  label: Read the participation guide
+  url: https://cameo3d.org/help
+solutions:
+  - label: Public scores and baselines
+    url: https://cameo3d.org/
+    description: Compare participating servers and reference baselines across recent
+      evaluations.

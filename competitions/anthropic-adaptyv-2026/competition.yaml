@@ -1,0 +1,22 @@
+slug: anthropic-adaptyv-2026
+title: Anthropic × Adaptyv Protein Design Competition
+organizer: Anthropic and Adaptyv
+targets:
+  - EGFR
+  - TNF-α
+  - GLP1R
+  - TfR1
+  - KRAS G12D pMHC
+actions:
+  - Protein design
+  - Conditional binding
+  - Agonist design
+  - Mutation-specific binding
+source_url: https://proteinbase.com/competitions/anthropic-adaptyv-2026
+source_label: Official competition on Proteinbase
+last_verified: 2026-11-12
+opens_on: 2026-09-28
+deadline:
+  label: Final submission deadline
+  at: 2026-11-09T23:59:00-12:00
+  time_zone: Etc/GMT+12

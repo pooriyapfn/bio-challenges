@@ -1,0 +1,17 @@
+slug: casp17-2026
+title: CASP17
+organizer: Protein Structure Prediction Center
+targets:
+  - Proteins
+  - Protein complexes
+  - RNA
+actions:
+  - Structure prediction
+  - Model assessment
+source_url: https://predictioncenter.org/casp17/
+source_label: Official CASP17 page
+last_verified: 2026-11-12
+deadline:
+  label: Prediction season ended
+  day: 2026-09-11
+  time_zone: UTC
